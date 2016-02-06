@@ -1,0 +1,16 @@
+//18.Iterate over the previous map in as many ways as possible.
+
+Map friendsData=new HashMap()
+friendsData.put('akash',25)
+friendsData.put('abhishek',26)
+friendsData.put('basant',21)
+friendsData.put('bhuwan',27)
+friendsData.put('chanakya',23)
+friendsData.put('omkar',26)
+friendsData.put('prashant',22)
+friendsData.put('sandeep',24)
+friendsData.put('shasha',25)
+friendsData.put('abhishek',26)
+println(friendsData['akash'])
+println(friendsData.get('prashant'))
+println(friendsData.'vikas')
